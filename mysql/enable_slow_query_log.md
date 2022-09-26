@@ -1,5 +1,9 @@
 # Enable slow log without restarting mysql
 
+touch /var/log/mysql/slow_query.log
+
+chown mysql:mysql /var/log/mysql/slow_query.log
+
 SET GLOBAL slow_query_log_file = '/var/log/mysql/slow_query.log';
 
 SET GLOBAL long_query_time = 0.5;
