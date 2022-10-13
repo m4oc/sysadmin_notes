@@ -1,4 +1,4 @@
-# Backup postgres
+#Setting backup-pg.sh
 
 Edit backup-pg.sh setting-up the variables
 
