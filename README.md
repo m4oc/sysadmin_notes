@@ -1,3 +1,10 @@
-# System Administrator Notes 
+   _____                     _           _         _   _       _            
+  / ____|                   | |         (_)       | \ | |     | |           
+ | (___  _   _ ___  __ _  __| |_ __ ___  _ _ __   |  \| | ___ | |_ ___  ___ 
+  \___ \| | | / __|/ _` |/ _` | '_ ` _ \| | '_ \  | . ` |/ _ \| __/ _ \/ __|
+  ____) | |_| \__ \ (_| | (_| | | | | | | | | | | | |\  | (_) | ||  __/\__ \
+ |_____/ \__, |___/\__,_|\__,_|_| |_| |_|_|_| |_| |_| \_|\___/ \__\___||___/
+          __/ |                                                             
+         |___/  
 
-Sysadmin note is a collection of notes useful for the daily life of a system administrator
+Sysadmin note is a collection of notes useful for the daily life of a system administrator.
